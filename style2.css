@@ -1,0 +1,44 @@
+
+
+.background{
+    /* background-image: url(""); */
+    background-color:hsl(185, 85%, 46%);
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading{
+    color: #e90ca0;
+    background-color: hsl(113, 92%, 43%);
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold ;
+    padding: 14px;
+}
+
+.whole{
+    padding: 14px;
+    color: hsl(310, 87%, 50%);
+    font-family: 'Raboto';
+    font-size: 12px;
+
+}
+
+.text-rec{
+    background-color: hsl(239, 95%, 43%);
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    text-align: left;
+}
+
+.text.sent{
+    background-color: hsl(55, 90%, 50%);
+    padding: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    text-align: right;
+}
